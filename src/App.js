@@ -1,5 +1,4 @@
 import {useState} from "react";
-import {getActiveElement} from "@testing-library/user-event/dist/utils";
 
 function Square({ value, onSquareClick }) {
     return (
